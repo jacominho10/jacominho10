@@ -3,7 +3,7 @@
 Meu nome é Camilie
 
 - Estou fazendo o curso do [Alura](https://www.alura.com.br)
-- Já estudei linguagens de programação, agora estou fazendo JavaScript
+- Já estudei linguagens de programação antes, agora estou fazendo JavaScript
 - Isso aqui, é para compartilhar meus projetos, feito na escola
 
 👍
